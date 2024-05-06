@@ -5,3 +5,4 @@ This repository contains the lab exercises for Modules 00 and 01 of the Xforce C
 ## Labs
 
 1. [Containers: GO GO GO](01-container/README.md)
+2. [Deployment: Everything is YAML](02-deployment/README.md)
